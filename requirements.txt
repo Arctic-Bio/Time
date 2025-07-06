@@ -1,0 +1,3 @@
+# Requirements for RTGCG Math Logic Demonstration
+numpy>=1.21.0
+tensorflow>=2.6.0
